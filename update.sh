@@ -2,7 +2,7 @@
   
 #!/data/data/com.termux/files/usr/bin/bash 
 BOT_DIR="Broly-Bot-MD"  
-BOT_REPO="https://github.com/GataNina-Li/$BOT_DIR"
+BOT_REPO="https://github.com/AngelPeruFachero/$BOT_DIR"
 DB_FILE="database.json"
  
 GREEN='\033[32m'
