@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["573147616444", '𝗕𝗿𝗼𝗹𝘆-𝘽𝙤𝙩-𝙈𝘿 💖💥', true], //𝗕𝗿𝗼𝗹𝘆-𝘽𝙤𝙩-𝙈𝘿
-["5492266613038"], 
+["51946038694", '𝗕𝗿𝗼𝗹𝘆-𝘽𝙤𝙩-𝙈𝘿 💖💥', true], //𝗕𝗿𝗼𝗹𝘆-𝘽𝙤𝙩-𝙈𝘿
+["51982110760"], 
 ["5573031859"],
 ["593968585383"],
 ["595976126756"],
